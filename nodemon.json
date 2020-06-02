@@ -1,0 +1,8 @@
+{
+    "env": {
+        "JWT_SECRET_KEY":"this_is_top_secret",
+        "DB_USER": "mesic",
+        "DB_PASSWORD": "tibor123",
+        "DB_NAME": "pockethealth"
+    }
+}
